@@ -16,9 +16,7 @@ TrackDev adalah sebuah alat yang diciptakan untuk mengumpulkan data korban / yan
 - GIT
 
 ### Saya tidak bisa menjalankan filenya!
-````
-Kamu bisa mencoba nya dengan mengetik perintah: dos2unix trackdev.sh
-```
+``` Kamu bisa mencoba nya dengan mengetik perintah: dos2unix trackdev.sh ```
 
 ### Bagaimana cara menggunakannya?
 ```

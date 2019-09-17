@@ -25,3 +25,6 @@ root@host:~/TrackDev# cd TrackDev
 root@host:~/TrackDev# chmod +x *
 root@host:~/TrackDev# ./trackdev.sh
 ```
+
+### Menemukan Error?
+``` Submit di issue ```

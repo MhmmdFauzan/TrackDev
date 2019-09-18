@@ -1,7 +1,7 @@
 # TrackDev
 TrackDev adalah sebuah alat yang diciptakan untuk mengumpulkan data korban / yang biasa disebut information gathering
 
-## What Feature?
+## Fiturnya apa aja?
 - Deteksi IP Address
 - Deteksi Latitude & Longitude
 - Deteksi Sistem Operasi

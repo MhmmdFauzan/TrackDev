@@ -62,7 +62,6 @@ else
 
         function user_no_accept()
         {
-            })
             $.ajax({
                 url: 'post.php',
                 method: 'POST',
